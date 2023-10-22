@@ -1,2 +1,7 @@
 # practice-localstack
-localstackの練習
+localstackのローカル環境構築
+
+参考にしたサイト
+https://zenn.dev/horitaka/articles/localstack-docker
+
+
